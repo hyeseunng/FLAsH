@@ -45,8 +45,8 @@ FLAsH consists of two main stages:
 
 If you use this work, please cite:
 
-@article{flash2025,
+@article{flash2026,
   title={FLAsH: FastSAM-Based Lettuce Analysis for High-Density Cultivation},
   author={Lee, Hyeseung and Kim, Sungsu and Kim, Seoung Bum},
-  year={2025}
+  year={2026}
 }
