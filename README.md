@@ -35,7 +35,10 @@ FLAsH consists of two main stages:
 ## Example
 
 <p align="center">
-  <img src="images/result.png" width="750">
+  <img src="images/result1.png" width="750">
+</p>
+<p align="center">
+  <img src="images/result2.svg" width="750">
 </p>
 
 ## Citation
